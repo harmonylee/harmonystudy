@@ -3,7 +3,7 @@
 ## Harmony's 
 
 1. [Violin](./violin.md)
-2. Music
+2. [Music](./
 
 ## Hobby 
 
