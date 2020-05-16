@@ -1,24 +1,24 @@
-
-
 # 순간이영원으로
 
 ## Harmony's 
 
-<div id="index">1. Violin</div>
-<div id="index">2. Music</div> 
+1. Violin
+2. Music
 
 ## Hobby 
 
-<div id="index">3. Swim</div>
-<div id="index">4. Trevel</div>
-<div id="index">5. Book</div>
-<div id="index">6. etc.</div><br>
-<br>
-<br>
-<br>
-<br>
-<br>
+3. Swim
+4. Travel
+5. Book
+6. etc.
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
 
 ### If you contact me
-<div id="index"> E-Mail to me !</div> 
-
+E-Mail to me !
