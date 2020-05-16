@@ -12,8 +12,7 @@
 <div id="index">3. Swim</div>
 <div id="index">4. Trevel</div>
 <div id="index">5. Book</div>
-
-6. etc. 
+<div id="index">6. etc.</div>  
 
 ### If you contact me
 <div id="index"> E-Mail to me !</div> 
