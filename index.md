@@ -4,9 +4,8 @@
 
 ## Harmony's hobby 
 
-1. Violin
 <div id="index">1. Violin</div>
-2. Music 
+<div id="index">2. Music</div> 
 3. Swim
 4. Trevel
 5. Book
