@@ -10,7 +10,7 @@
 3. Swim
 4. Travel
 5. Book
-6. etc.
+6. etc.(./etc.md)
 <br>  
 <br>  
 <br>  
