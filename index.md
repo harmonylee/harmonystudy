@@ -1,6 +1,6 @@
-# 순간이영원으로
+# 화음이의 우당탕탕 하루하루
 
-## Harmony's T
+## Harmony's 
 
 1. [Violin](./violin.md)
 2. [Music](./music.md)
