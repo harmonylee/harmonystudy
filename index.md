@@ -7,7 +7,7 @@
 
 ## Hobby 
 
-3. Swim
+3. [Swim](./swim.md)
 4. Travel
 5. Book
 6. [etc.](./etc.md)
