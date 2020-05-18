@@ -5,7 +5,6 @@ visual studio와 github reposistory 문서간 충돌에 의하여 발생된다.
 같은 제목의 마크다운 파일에 있어서 수정시각이나 수정상태의 차이에 의하여 충돌된다.
 
 **<예시>** 
-
 (1) 아래 사진은 github에서 작성했을 때 모습
 
 ![TEST](/pictures/github1.png)
