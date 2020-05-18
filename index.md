@@ -11,6 +11,7 @@
 4. Travel
 5. Book
 6. [etc.](./etc.md)
+7. [Study](./study.md)
 <br>  
 <br>  
 <br>  
