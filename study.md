@@ -2,4 +2,4 @@
 
 ## [주식 리딩 및 기업분석](./stock.md)
 ## [Github Problem](./git.md)
-## Korea History(./history.md) 
+## [Korea History](./history.md)
