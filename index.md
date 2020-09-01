@@ -12,6 +12,7 @@
 5. Book
 6. [etc.](./etc.md)
 7. [Study](./study.md)
+8. [dairy](./dairy.md)
 <br>  
 <br>  
 <br>  
